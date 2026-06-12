@@ -143,4 +143,4 @@ zip -r dist/clinical-med-study-coach.zip clinical-med-study-coach \
 
 ## 致谢
 
-- 学习方法核心来自一位临床医学生的公开经验分享
+- 学习方法核心来自一位临床医学生的公开经验分享小红书@全球美食品鉴家
